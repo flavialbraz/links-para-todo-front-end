@@ -20,9 +20,8 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [REACT - Professor Edu P Sousa - IFSP ](https://www.youtube.com/watch?v=APmvZ3Y3hNo&list=PLvvWKco2jX6D2T9xDq2v2-_z2_CTtBRHB&index=1)
 - [Studio Code](https://studio.code.org/courses)
 - [Origamid](https://www.origamid.com/pt/)
-- [Code.org](https://code.org/learn/beyond)
 - [W3Schools](https://www.w3schools.com/)
-- [Coursera](https://www.coursera.org/courses?query=web+development)
+
 
 
 ## 🚀 Desafios front
