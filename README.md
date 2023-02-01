@@ -1,6 +1,14 @@
-# 🖥️ Links para todo front-end 
-Este repositório reúne uma coleção de links para desenvolvedores front-end, incluindo links para cursos, repositórios, ferramentas e mais. 
+<div align="center">
 
+# 🖥️ Links para todo front-end 
+
+</div>
+
+ 
+<div align="center">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="40%"/> 
+</div>
+Este repositório reúne uma coleção de links para desenvolvedores front-end, incluindo links para cursos, repositórios, ferramentas e mais. 
 
 
 
@@ -50,11 +58,6 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [LeetCode](https://leetcode.com/explore/learn)
 
 
-
-
-# 🖱️ Outros
-
-
 ## Editores de código online
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
@@ -91,10 +94,51 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [Octopus.do](https://octopus.do/)
 - [Whimsical](https://whimsical.com/)
 
+
+
+## Geradores de código CSS
+- [UI.Glass](https://ui.glass/generator/)
+- [Hype4 Academy Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
+- [Blobmaker](https://www.blobmaker.app/)
+- [Get Waves](https://getwaves.io/)
+- [Flexbox Malven](https://flexbox.malven.co/)
+- [Neumorphism.io](https://neumorphism.io/#e0e0e0)
+- [9 Elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/full-control.html)
+- [Button Generator](https://www.clickminded.com/button-generator/)
+- [Gradient Buttons Colorion](https://gradientbuttons.colorion.co/)
+
+
+## Animações CSS
+- [Animate.css](https://animate.style)
+- [AOS - Animate on Scroll Library](https://michalsnik.github.io/aos)
+- [Magic Animations](https://miniwebtools.com/magic-animations/)
+- [LottieFiles](https://lottiefiles.com)
+- [Anime.js](https://animejs.com)
+- [Three.js](https://threejs.org)
+- [GSAP - GreenSock Animation Platform](https://greensock.com/gsap)
+- [P5.js](https://p5js.org)
+- [Popmotion](https://popmotion.io)
+- [Vivus.js](https://maxwellito.github.io/vivus)
+- [Bounce.js](https://bouncejs.com)
+- [Dynamics.js](http://dynamicsjs.com)
+- [Mo.js](https://mojs.github.io)
+- [SVG.js](https://svgjs.com)
+- [Velocity.js](https://velocityjs.org)
+- [Snap.svg](http://snapsvg.io)
+- [TweenMax](https://greensock.com/tweenmax)
+- [ScrollTrigger](https://greensock.com/scrolltrigger)
+- [Particles.js](https://vincentgarreau.com/particles.js)
+- [Keyframes.app](https://keyframes.app)
+- [Image Hover](http://imagehover.io)
+- [Use Animations](https://useanimations.com)
+- [Hover.css](https://ianlunn.github.io/Hover)
+- [Magic Animations](https://www.minimamente.com/project/magic)
+  
+
   
 
 # 👩‍💻 Javascript
- 
+ Lista com links de livros, tutoriais e outros repositórios sobre a linguagem. 
 
 ## Vagas e entrevistas
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
@@ -139,54 +183,8 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 
 
 
- 
-# 🎨 Úteis - HTML, CSS e Javascript
-
-## Geradores de código CSS
-- [UI.Glass](https://ui.glass/generator/)
-- [Hype4 Academy Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
-- [Blobmaker](https://www.blobmaker.app/)
-- [Get Waves](https://getwaves.io/)
-- [Flexbox Malven](https://flexbox.malven.co/)
-- [Neumorphism.io](https://neumorphism.io/#e0e0e0)
-- [9 Elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/full-control.html)
-- [Button Generator](https://www.clickminded.com/button-generator/)
-- [Gradient Buttons Colorion](https://gradientbuttons.colorion.co/)
-
-
-## Animações CSS
-- [Animate.css](https://animate.style)
-- [AOS - Animate on Scroll Library](https://michalsnik.github.io/aos)
-- [Magic Animations](https://miniwebtools.com/magic-animations/)
-- [LottieFiles](https://lottiefiles.com)
-- [Anime.js](https://animejs.com)
-- [Three.js](https://threejs.org)
-- [GSAP - GreenSock Animation Platform](https://greensock.com/gsap)
-- [P5.js](https://p5js.org)
-- [Popmotion](https://popmotion.io)
-- [Vivus.js](https://maxwellito.github.io/vivus)
-- [Bounce.js](https://bouncejs.com)
-- [Dynamics.js](http://dynamicsjs.com)
-- [Mo.js](https://mojs.github.io)
-- [SVG.js](https://svgjs.com)
-- [Velocity.js](https://velocityjs.org)
-- [Snap.svg](http://snapsvg.io)
-- [TweenMax](https://greensock.com/tweenmax)
-- [ScrollTrigger](https://greensock.com/scrolltrigger)
-- [Particles.js](https://vincentgarreau.com/particles.js)
-- [Keyframes.app](https://keyframes.app)
-- [Image Hover](http://imagehover.io)
-- [Use Animations](https://useanimations.com)
-- [Hover.css](https://ianlunn.github.io/Hover)
-- [Magic Animations](https://www.minimamente.com/project/magic)
-  
-
-
-
-
 # 🎨 Úteis - Materiais para Design
-
-
+Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outros elementos de design. 
 
 
 
