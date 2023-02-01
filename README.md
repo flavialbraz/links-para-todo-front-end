@@ -6,7 +6,7 @@
 
  
 <div align="center">
-<img src="./gif.gif" width="60%"/> 
+<img src="./gif.gif" width="80%"/> 
 </div>
 Este repositório reúne uma coleção de links para desenvolvedores front-end, incluindo links para cursos, repositórios, ferramentas e mais. 
 
