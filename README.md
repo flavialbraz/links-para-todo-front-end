@@ -6,7 +6,7 @@
 
  
 <div align="center">
-<img src="./gif.gif"/> 
+<img src="./gif.gif" width="60%"/> 
 </div>
 Este repositório reúne uma coleção de links para desenvolvedores front-end, incluindo links para cursos, repositórios, ferramentas e mais. 
 
@@ -69,7 +69,7 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [Laws of UX](https://lawsofux.com/)
 
 
-## Acessibilidade e desempenho
+## 📝 Acessibilidade e desempenho
 - [Who Can Use](https://www.whocanuse.com/)
 - [Can I use](https://caniuse.com/)
 - [Colorable](https://colorable.jxnblk.com/)
