@@ -6,13 +6,13 @@
 
  
 <div align="center">
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="40%"/> 
+<img src="./gif.gif"/> 
 </div>
 Este repositório reúne uma coleção de links para desenvolvedores front-end, incluindo links para cursos, repositórios, ferramentas e mais. 
 
 
 
-## Cursos
+## ✍️ Cursos
 - [Rocketseat - Discover ](https://www.rocketseat.com.br/discover)
 - [Freecodecamp](https://www.freecodecamp.org/)
 - [Curso Em Video](https://www.cursoemvideo.com/)
@@ -20,14 +20,12 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [REACT - Professor Edu P Sousa - IFSP ](https://www.youtube.com/watch?v=APmvZ3Y3hNo&list=PLvvWKco2jX6D2T9xDq2v2-_z2_CTtBRHB&index=1)
 - [Studio Code](https://studio.code.org/courses)
 - [Origamid](https://www.origamid.com/pt/)
-- [CodeFication](https://codefication.com.br/)
 - [Code.org](https://code.org/learn/beyond)
 - [W3Schools](https://www.w3schools.com/)
 - [Coursera](https://www.coursera.org/courses?query=web+development)
-- [PluralSight](https://www.pluralsight.com/search?q=web+development)
 
 
-## Desafios front
+## 🚀 Desafios front
 - [Codewell](https://www.codewell.cc/)
 - [Frontendmentor](https://www.frontendmentor.io/)
 - [Css Battle](https://cssbattle.dev/)
@@ -49,7 +47,7 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [JavaScript30](https://javascript30.com)
 
 
-## Sites para treinar lógica de programação 
+## 🔮 Sites para treinar lógica de programação 
 - [Beecrowd](https://www.beecrowd.com.br)
 - [FreeCodeCamp](https://www.freecodecamp.org)
 - [Codewars](https://www.codewars.com)
@@ -58,17 +56,15 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [LeetCode](https://leetcode.com/explore/learn)
 
 
-## Editores de código online
+## 🖊️ Editores de código online
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](https://jsbin.com/?html,output)
 - [CodeSandbox](https://codesandbox.io/)
-- [Glitch](https://glitch.com/)
-- [Repl.it](https://repl.it/)
 - [StackBlitz](https://stackblitz.com/)
 
 
-## UX/UI Design - Estudos e melhores práticas
+## 🖥️ UX/UI Design - Estudos e melhores práticas
 - [Checklist Design](https://www.checklist.design/)
 - [Laws of UX](https://lawsofux.com/)
 
@@ -84,19 +80,19 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 
-## Compressores de imagens
+## 📸 Compressores de imagens
 - [TinyPNG](https://tinypng.com/)
 - [Compressor.io](https://compressor.io/)
 
 
-## Mapas mentais, wireframes e sitemap
+## 📈 Mapas mentais, wireframes e sitemap
 - [Wireframe.cc](https://wireframe.cc/)
 - [Octopus.do](https://octopus.do/)
 - [Whimsical](https://whimsical.com/)
 
 
 
-## Geradores de código CSS
+## 📢 Geradores de código CSS
 - [UI.Glass](https://ui.glass/generator/)
 - [Hype4 Academy Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
 - [Blobmaker](https://www.blobmaker.app/)
@@ -108,7 +104,7 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [Gradient Buttons Colorion](https://gradientbuttons.colorion.co/)
 
 
-## Animações CSS
+## 🎆 Animações CSS
 - [Animate.css](https://animate.style)
 - [AOS - Animate on Scroll Library](https://michalsnik.github.io/aos)
 - [Magic Animations](https://miniwebtools.com/magic-animations/)
@@ -140,13 +136,13 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 # 👩‍💻 Javascript
  Lista com links de livros, tutoriais e outros repositórios sobre a linguagem. 
 
-## Vagas e entrevistas
+## 📁 Vagas e entrevistas
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Vagas de Front-End](https://github.com/frontendbr/vagas)
 
 
 
-## Livros sobre javascript e programação
+## 📕 Livros sobre javascript e programação
 
 ### Em português:
 - [Livro do JavaScript](https://github.com/braziljs/livro-javascript)
@@ -188,7 +184,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
 
 
-## Icones 
+## 🧵 Icones 
 - [Font Awesome](https://fontawesome.com)
 - [Feather Icons](https://feathericons.com)
 - [Modulz Icons](https://icons.modulz.app)
@@ -201,7 +197,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 - [Ikonate](https://ikonate.com)
 
 
-## Imagens 
+## 📷 Imagens 
 - [Gratisography](https://gratisography.com/)
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://pexels.com)
@@ -213,7 +209,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 - [Stocksnap](https://stocksnap.io/)
 
 
-## Ilustrações e vetores
+## 🃏 Ilustrações e vetores
 - [Icons8](https://icons8.com)
 - [The Noun Project](https://thenounproject.com)
 - [Openclipart](https://openclipart.org)
@@ -222,13 +218,13 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 - [Reshot](https://www.reshot.com/free-vector-illustrations/)
 - [Iconfinder](https://www.iconfinder.com/illustrations)
 
- ## Editores online
+ ## ⌨️ Editores online
 - [Figma](https://figma.com/)
 - [Veed Video Editor](https://www.veed.io/tools/video-editor)
 - [Canva](https://www.canva.com/)
 - [Remove.bg](https://www.remove.bg/pt-br)
  
-## Inspirações
+## 💡 Inspirações
 - [Muz.li Search](https://search.muz.li/)
 - [Behance](https://www.behance.net/)
 - [Call to Idea](https://www.calltoidea.com/)
@@ -239,13 +235,13 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
  
 
-## Gradientes
+## 💅 Gradientes
 - [CSS Gradient](https://cssgradient.io/)
 - [Web Gradients](https://webgradients.com/)
 - [Gradienta.io](https://gradienta.io/)
 
 
-## Paleta de cores
+## 🎨 Paleta de cores
 - [Coolors.co](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/)
 - [My Color Space](https://mycolor.space/)
@@ -256,7 +252,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
 
 
-## Mockups
+## 👑 Mockups
 - [Mockuuups Studio](https://mockuuups.studio/)
 - [Smartmockups](https://smartmockups.com)
 - [MockUphone](https://mockuphone.com/)
@@ -266,7 +262,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 - [LS Graphics](https://www.ls.graphics/free-mockups)
 
 
-## Plugins Figma
+## 💄 Plugins Figma
 - [Auto Layout](https://www.figma.com/c/plugin/715111254578083452/Auto-Layout)
 - [Stark](https://www.figma.com/c/plugin/719907967889727258/Stark)
 - [UI Faces](https://www.figma.com/c/plugin/719552896802724072/UI-Faces)
