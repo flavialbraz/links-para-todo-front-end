@@ -66,7 +66,9 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 ## 🖥️ UX/UI Design - Estudos e melhores práticas
 - [Checklist Design](https://www.checklist.design/)
 - [Laws of UX](https://lawsofux.com/)
-
+- [Modularscale](https://www.modularscale.com/)
+- [Type Scale](https://type-scale.com/)
+ 
 
 ## 📝 Acessibilidade e desempenho
 - [Who Can Use](https://www.whocanuse.com/)
@@ -263,6 +265,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
 ## 💄 Plugins Figma
 - [Similayer](https://www.figma.com/community/plugin/735733267883397781/Similayer)
+- [Typescales](https://www.figma.com/community/plugin/739825414752646970/Typescales)
 - [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints)
 - [Figit - A massive library of UI Elements](https://www.figma.com/community/plugin/1060213973572396708/Figit---A-massive-library-of-UI-Elements)
 - [Overlay (Figma components to React, Vue, HTML)](https://www.figma.com/community/plugin/893806009348766137/Overlay-(Figma-components-to-React%2C-Vue%2C-HTML))
