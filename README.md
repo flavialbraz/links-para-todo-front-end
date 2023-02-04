@@ -262,7 +262,10 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
 
 ## 💄 Plugins Figma
-- [Auto Layout](https://www.figma.com/c/plugin/715111254578083452/Auto-Layout)
+- [Similayer](https://www.figma.com/community/plugin/735733267883397781/Similayer)
+- [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints)
+- [Figit - A massive library of UI Elements](https://www.figma.com/community/plugin/1060213973572396708/Figit---A-massive-library-of-UI-Elements)
+- [Overlay (Figma components to React, Vue, HTML)](https://www.figma.com/community/plugin/893806009348766137/Overlay-(Figma-components-to-React%2C-Vue%2C-HTML))
 - [Stark](https://www.figma.com/c/plugin/719907967889727258/Stark)
 - [UI Faces](https://www.figma.com/c/plugin/719552896802724072/UI-Faces)
 - [Data Populator](https://www.figma.com/c/plugin/719056508027260716/Data-Populator)
