@@ -68,7 +68,11 @@ Este repositório reúne uma coleção de links para desenvolvedores front-end, 
 - [Laws of UX](https://lawsofux.com/)
 - [Modularscale](https://www.modularscale.com/)
 - [Type Scale](https://type-scale.com/)
- 
+- [Ui Patterns](https://ui-patterns.com/)
+- [Deceptive Design](https://www.deceptive.design/hall-of-shame/all)
+- [Material Design](https://m3.material.io/)
+
+
 
 ## 📝 Acessibilidade e desempenho
 - [Who Can Use](https://www.whocanuse.com/)
@@ -264,6 +268,7 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 
 
 ## 💄 Plugins Figma
+- [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles)
 - [Similayer](https://www.figma.com/community/plugin/735733267883397781/Similayer)
 - [Typescales](https://www.figma.com/community/plugin/739825414752646970/Typescales)
 - [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints)
