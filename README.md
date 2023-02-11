@@ -237,13 +237,13 @@ Banco de imagens para utilizar em seus projetos, ícones, paleta de cores e outr
 - [Design Notes](https://www.designnotes.co/)
 - [NavNav](https://navnav.co/)
 - [Land Book](https://land-book.com/)
-
+- [Land Book](https://land-book.com/)
  
 
 ## 💅 Gradientes
 - [CSS Gradient](https://cssgradient.io/)
 - [Web Gradients](https://webgradients.com/)
-- [Gradienta.io](https://gradienta.io/)
+- [Awwwards](https://www.awwwards.com/)
 
 
 ## 🎨 Paleta de cores
